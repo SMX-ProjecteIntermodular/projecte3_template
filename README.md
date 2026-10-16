@@ -2,6 +2,12 @@
 
 Aquest repositori és la plantilla pel repositori dels alumnes que servirà pel lliurament de les tasques corresponents.
 
+<p align="center">
+  <img src="https://images.pexels.com/photos/5313161/pexels-photo-5313161.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=640&amp;h=427" alt="Home i dona treballant en una oficina" width="640" height="427">
+</p>
+
+## Les teves dades
+
 Nom: [Posa el teu nom aquí]
 
 Número de grup: [Indica aquí el número de grup assignat]
@@ -9,8 +15,6 @@ Número de grup: [Indica aquí el número de grup assignat]
 Nom del company/a: [Posa el nom del teu company/a aquí]
 
 Classe: [Escriu la classe]
-
-![Imatge del projecte](https://images.pexels.com/photos/7376/startup-photos.jpg)
 
 ## Enunciat del projecte
 
