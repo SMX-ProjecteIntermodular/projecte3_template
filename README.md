@@ -3,7 +3,12 @@
 Aquest repositori és la plantilla pel repositori dels alumnes que servirà pel lliurament de les tasques corresponents.
 
 Nom: [Posa el teu nom aquí]
+
+Número de grup: [Indica aquí el número de grup assignat]
+
 Nom del company/a: [Posa el nom del teu company/a aquí]
+
+Classe: [Escriu la classe]
 
 ![Imatge del projecte](https://images.pexels.com/photos/7376/startup-photos.jpg)
 
